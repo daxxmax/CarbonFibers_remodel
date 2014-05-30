@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.carbon.fibers.fragments.sb;
+package com.carbon.fibers.fragments.systemui;
 
 import java.util.ArrayList;
 import java.util.Arrays;

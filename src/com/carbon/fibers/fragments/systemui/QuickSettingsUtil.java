@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.carbon.fibers.fragments.sb;
+package com.carbon.fibers.fragments.systemui;
 
 import static com.android.internal.util.cm.QSConstants.TILES_DEFAULT;
 import static com.android.internal.util.cm.QSConstants.TILE_AIRPLANE;

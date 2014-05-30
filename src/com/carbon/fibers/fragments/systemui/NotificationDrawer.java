@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.carbon.fibers.fragments.sb;
+package com.carbon.fibers.fragments.systemui;
 
 import android.os.Bundle;
 import android.preference.ListPreference;

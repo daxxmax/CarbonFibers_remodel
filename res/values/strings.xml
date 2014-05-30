@@ -168,12 +168,12 @@
     <string name="backlight_summary_enabled">Enabled</string>
 
     <!-- Statusbar settings -->
-    <string name="status_bar_title">Statusbar</string>
-    <string name="sb_battery_category">Battery</string>
-    <string name="sb_clock_category">Clock</string>
-    <string name="sb_general_category">General</string>
-    <string name="sb_notification_category">Notification Drawer</string>
-    <string name="sb_quicksettings_category">Quick Settings</string>
+    <string name="systemui_title">System User Interface</string>
+    <string name="systemui_battery_options">Battery</string>
+    <string name="systemui_clock_options">Clock</string>
+    <string name="systemui_general_options">General</string>
+    <string name="systemui_notification_options">Notification Drawer</string>
+    <string name="systemui_quicksettings_options">Quick Settings</string>
 
     <!-- Interface settings -->
     <string name="ui_general_category">General</string>

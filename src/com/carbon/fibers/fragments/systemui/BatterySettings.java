@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.carbon.fibers.fragments.sb;
+package com.carbon.fibers.fragments.systemui;
 
 import android.app.AlertDialog;
 import android.content.ContentResolver;

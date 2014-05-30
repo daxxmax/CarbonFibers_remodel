@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <Preference
+            android:key="battery_options"
+            android:fragment="com.carbon.fibers.fragments.systemui.BatterySettings"
+            android:title="@string/systemui_battery_options"
+            android:icon="" />
+
+        <Preference
+            android:key="clock_options"
+            android:fragment="com.carbon.fibers.fragments.systemui.ClockSettings"
+            android:title="@string/systemui_clock_options"
+            android:icon="" />
+
+        <Preference
+            android:key="general_options"
+            android:fragment="com.carbon.fibers.fragments.systemui.GeneralSettings"
+            android:title="@string/systemui_general_options"
+            android:icon="" />
+
+        <Preference
+            android:key="navigation_options"
+            android:fragment="com.carbon.fibers.fragments.systemui.NavBarSettings"
+            android:title="@string/systemui_navigation_options"
+            android:icon="" />
+
+        <Preference
+            android:key="notification_options"
+            android:fragment="com.carbon.fibers.fragments.systemui.NotificationDrawerStyle"
+            android:title="@string/systemui_notification_options"
+            android:icon="" />
+
+        <Preference
+            android:key="quicksettings_options"
+            android:fragment="com.carbon.fibers.fragments.systemui.QuickSettings"
+            android:title="@string/systemui_quicksettings_options"
+            android:icon="" />
+
+</PreferenceScreen>

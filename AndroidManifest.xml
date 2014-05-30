@@ -102,8 +102,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".fragments.sb.SbSettings"
-            android:label="@string/status_bar_title" >
+            android:name=".fragments.systemui.SystemUiSettings"
+            android:label="@string/systemui_title" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

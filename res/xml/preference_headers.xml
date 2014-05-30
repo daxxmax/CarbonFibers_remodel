@@ -28,12 +28,6 @@
             android:fragment="com.carbon.fibers.fragments.ls.KeyguardSettings" />
 
         <header
-            android:id="@+id/navbar_settings"
-            android:icon="@drawable/ic_settings_navigation"
-            android:title="@string/navbar_cat"
-            android:fragment="com.carbon.fibers.fragments.navbar.NavbarTab" />
-
-        <header
             android:id="@+id/pie_control"
             android:title="@string/pie_carbon_title"
             android:icon="@drawable/ic_carbon_pie"
@@ -54,9 +48,9 @@
         </header>
 
         <header
-            android:id="@+id/statusbar_settings"
-            android:title="@string/status_bar_title"
-            android:icon="@drawable/ic_fibers_sb"
-            android:fragment="com.carbon.fibers.fragments.sb.SbSettings" />
+            android:id="@+id/systemui_settings"
+            android:title="@string/systemui_title"
+            android:icon="@drawable/ic_fibers_systemui"
+            android:fragment="com.carbon.fibers.fragments.systemui.SystemUiSettings" />
 
 </preference-headers>
